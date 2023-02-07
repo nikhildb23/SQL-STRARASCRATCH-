@@ -23,7 +23,7 @@ forbes_global_2010_2014
 |forbeswebpage|varchar  |
 
 
-***sql solution
+***SQL SOLUTION
 ```
 select  top 3 profits as profit, company 
 from forbes_global_2010_2014
